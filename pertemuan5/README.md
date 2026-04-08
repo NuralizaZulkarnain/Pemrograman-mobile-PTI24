@@ -88,6 +88,8 @@ PENJELASAN HASIL:
 
 Saya membuat tampilan sederhana dengan menggunakan kombinasi widget Text, Icon, dan Column.
 
+-----
+
 KESIMPULAN DARI HASIL KERJA
 
 Saya telah memahami proses dasar dalam pengembangan aplikasi menggunakan Flutter, mulai dari pembuatan proyek hingga menjalankan aplikasi baik di emulator maupun pada perangkat fisik. Selain itu, saya juga mampu menghubungkan perangkat menggunakan USB Debugging serta mengeksekusi aplikasi dengan perintah yang sesuai. Dalam proses pembelajaran ini, saya mengenal dan menggunakan berbagai widget dasar seperti Text, Icon, dan Column untuk membangun tampilan sederhana. Saya juga mempelajari perbedaan antara Stateless Widget dan Stateful Widget yang sangat penting dalam pengelolaan tampilan dan perubahan data pada aplikasi. Secara keseluruhan, pembelajaran ini memberikan pemahaman yang baik tentang dasar-dasar Flutter serta menjadi bekal awal dalam mengembangkan aplikasi yang lebih kompleks di masa mendatang.
