@@ -105,3 +105,14 @@ Pada praktikum ini, Saya telah belajar:
 - Mulai terlihat seperti aplikasi real
 
 ---
+
+### 8. Tugas 1: Praktikum 6
+
+
+<img width="1365" height="724" alt="pink" src="https://github.com/user-attachments/assets/22f06874-b9ee-470f-bcbf-403673566a04" />
+
+
+**Penjelasan:**  
+Praktikum ini membantu memahami dasar pembuatan tampilan aplikasi Flutter menggunakan berbagai widget serta pengaturan layout, sehingga menghasilkan UI yang rapi, menarik, dan dapat di-scroll tanpa error.
+
+---
