@@ -64,25 +64,41 @@ Pada program yang saya buat, saya menggunakan named route untuk mengatur navigas
 ---
 
 ### 5. Praktikum 3.5: Named Route + Form Input + Kirim Data <br>
-![Screenshot](assets/pertemuan6.png)
+
+<img width="1365" height="632" alt="P3 51" src="https://github.com/user-attachments/assets/4eb4eee7-836b-44a9-96ea-b5ca716d3132" />
+
+<img width="1365" height="633" alt="P3 52" src="https://github.com/user-attachments/assets/e9b60bd6-4918-4e69-bda4-8ab68fa86730" />
 
 **Penjelasan:**  
-Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi wisata.
+Saya menggunakan named route di Flutter sehingga navigasi aplikasi menjadi lebih rapi. Saya juga mengirimkan data dari form ke halaman lain, sehingga aplikasi lebih dinamis. Dengan begitu, struktur kode yang saya buat menjadi lebih profesional dan mudah dikembangkan.
 
 ---
 
-### 7. Praktikum 6: Implementasi Text Section (Styling & Kerapian UI)
-![Screenshot](assets/pertemuan7.png)
+### 6. Praktikum 4: Menampilkan Data dengan ListView <br>
+
+<img width="1363" height="634" alt="P4" src="https://github.com/user-attachments/assets/42b66019-be59-4bbc-885d-071580b8d6ba" />
 
 **Penjelasan:**  
-Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampilan lebih rapi.
+Saya menggunakan ListView di Flutter untuk menampilkan banyak data. Data saya simpan dalam bentuk List, kemudian diubah menjadi tampilan di aplikasi. Saya juga mengubah sedikit tampilan, menambahkan foto, dan mengganti isi dengan daftar wisata lain yaitu wisata yang ada disulawesi selatan sehingga aplikasi terlihat lebih menarik.
 
 ---
 
-### 8. Praktikum 7: Image Section & Layout Lebih Rapi
-![Screenshot](assets/pertemuan8.png)
+### 7. Praktikum 5: ListView + Navigasi (Mini App Sederhana) <br>
+
+<img width="1365" height="635" alt="P5" src="https://github.com/user-attachments/assets/e4b545f8-b218-42eb-a227-4ae29bf5fc7c" />
 
 **Penjelasan:**  
-Menambahkan gambar ke dalam aplikasi dan mengatur layout agar lebih menarik dan responsif.
+Saya menggunakan ListView untuk menampilkan data, Navigator untuk berpindah halaman, dan data tetap bisa dikirim antar halaman. Selain itu, saya juga menambahkan beberapa ikon, memperbaiki tampilan,
+
+---
+
+### 8. Praktikum 6: Mini Project: Aplikasi Wisata (ListView + Model + Gambar + Detail)  <br>
+
+<img width="1365" height="635" alt="P5" src="https://github.com/user-attachments/assets/44dcdced-bfe2-4eeb-b64a-78d36aa5be93" />
+
+<img width="1363" height="630" alt="P5 2" src="https://github.com/user-attachments/assets/c87654cb-5745-4977-a6e6-0a00b569d9b5" />
+
+**Penjelasan:**  
+Saya menggunakan ListView untuk menampilkan data, Navigator untuk berpindah halaman, dan data tetap bisa dikirim antar halaman. Selain itu, saya juga menambahkan beberapa ikon, memperbaiki tampilan, serta menambahkan deskripsi singkat wisata beserta ratingnya agar aplikasi terlihat lebih menarik di Flutter. Saya juga menambahkan aturan untuk tutup atau kembali ke halaman sebelumnya sehingga navigasi menjadi lebih lengkap dan mudah digunakan.
 
 ---
