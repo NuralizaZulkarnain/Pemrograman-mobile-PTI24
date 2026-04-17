@@ -1,9 +1,9 @@
 # 📘 Pemrograman Mobile 2026
 
 ## 👨‍💻 Nama
-MUH. FARID  <br>
+NURALIZA ZULKARNAIN  <br>
 ## 👨‍💻 Nim 
-H0724511
+H0724525
 
 ---
 
@@ -16,7 +16,9 @@ H0724511
 <img width="1365" height="630" alt="L1" src="https://github.com/user-attachments/assets/bafb2be0-7778-4016-b1c3-bfa77ebf8deb" />
 
 
+
 <img width="1364" height="634" alt="L1 1" src="https://github.com/user-attachments/assets/358e6e03-cc2b-4377-b23d-243cd2e4e46d" />
+
 
 
 **Penjelasan:**  
