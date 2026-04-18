@@ -85,7 +85,7 @@ Saya menggunakan ListView di Flutter untuk menampilkan banyak data. Data saya si
 
 ### 7. Praktikum 5: ListView + Navigasi (Mini App Sederhana) <br>
 
-<img width="1365" height="635" alt="P5" src="https://github.com/user-attachments/assets/e4b545f8-b218-42eb-a227-4ae29bf5fc7c" />
+<img width="1363" height="634" alt="P4" src="https://github.com/user-attachments/assets/42b66019-be59-4bbc-885d-071580b8d6ba" />
 
 <img width="1364" height="632" alt="P4 2" src="https://github.com/user-attachments/assets/b471f169-af92-438c-bab1-6310ce5fd335" />
 
